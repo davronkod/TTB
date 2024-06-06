@@ -1,0 +1,9 @@
+.aloqalar {
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    text-decoration: none;
+    transition: .5s;
+    list-style-type: none;
+}

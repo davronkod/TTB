@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+    color: #01b3b0;
+}
+.selected {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: -25px;
+    position: absolute;
+}
+
+.gerb {
+    width: 150px;
+    height: 70px;
+    margin-left: 50px;
+    margin-top: -45px;
+}
+body{
+    background-color: white;
+}

@@ -1,0 +1,8 @@
+.bosh{
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+    transition: .5s;
+    margin-top: 50px;
+}
+

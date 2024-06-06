@@ -1,0 +1,8 @@
+.bulim {
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    transition: .5s;
+}
+
